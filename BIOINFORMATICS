@@ -1,0 +1,78 @@
+🧬 HBB Gene & E6V Mutation – Research Summary
+
+Prepared by: Zahraa Qasim
+Year: 2025
+
+🔹 Introduction
+
+The HBB gene encodes the beta chain of hemoglobin.
+It plays a central role in oxygen transport.
+Mutations in this gene cause inherited blood disorders, the most known being Sickle Cell Disease (SCD).
+
+🔹 HBB Gene Location
+
+Located on chromosome 11.
+
+🔹 Literature Review
+
+The HBB gene contains three exons.
+
+Produces a protein of 147 amino acids.
+
+Highly sensitive to mutations.
+
+Associated with Beta-thalassemia and Sickle Cell Disease.
+
+🔹 BLAST & UniProt Analysis
+
+BLASTp shows 95–100% similarity with primates.
+
+HBB is evolutionarily conserved.
+
+UniProt identifies heme-binding regions and protein stability zones.
+
+🔹 E6V Mutation (rs334)
+
+Missense mutation.
+
+Nucleotide substitution: GAG → GTG.
+
+Amino acid change: Glutamic acid → Valine at position 6.
+
+ClinVar: Pathogenic.
+
+SIFT & PolyPhen: Damaging.
+
+🔹 Multiple Sequence Alignment
+
+Position 6 is highly conserved across mammals.
+
+Any mutation here has a strong structural and functional impact.
+
+🔹 Discussion
+
+A single amino acid substitution can lead to full disease.
+
+The mutation causes hemoglobin polymerization, producing the sickle shape.
+
+Bioinformatics tools allow predicting and understanding these effects.
+
+🔹 Conclusion
+
+HBB is a well-studied genetic disease model.
+
+E6V mutation clearly explains the molecular mechanism of SCD.
+
+Bioinformatics accelerates genetic research and improves clinical predictions.
+
+🔹 References
+
+NCBI Gene – HBB
+
+UniProt
+
+Ensembl VEP
+
+ClinVar
+
+Clustal Omega
